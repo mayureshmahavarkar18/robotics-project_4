@@ -1,1 +1,6 @@
 __pycache__/
+*.pyc
+*.log
+.DS_Store
+build/
+dist/
